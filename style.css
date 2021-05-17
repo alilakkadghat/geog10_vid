@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 10px;
+}
+body{
+    background-color:rgb(245, 203, 179);
+}
+
+hr{
+    width: auto;
+    height: auto;
+    background-color:rgb(255, 0, 85);
+    border-color:rgb(255, 153, 0);
+}
